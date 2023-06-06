@@ -1,0 +1,32 @@
+[
+    {
+      "_id": "623853b2614ad5aba311fdd1",
+      "index": 0,
+      "job": 300,
+      "picture": "https://img.freepik.com/free-photo/stock-market-exchange-economics-investment-graph_53876-133574.jpg?w=900&t=st=1681051266~exp=1681051866~hmac=63d1b9a37ca6275c6d2cde654f5078d1ae0f6e58930cdbe310b3119ed00445fd",
+      "name": "Account & Finance "
+     
+    },
+    {
+      "_id": "623853b2578e9e6ad1ae0dd5",
+      "index": 1,
+      "job": 150,
+      "picture": "https://img.freepik.com/free-vector/designer-tools-idea-concept_98292-4652.jpg?w=740&t=st=1681051447~exp=1681052047~hmac=53904c0f6c582152c8755dba22960390785bf6052e661c1d04aa3b82e2c0328b",
+      "name": "Creative Design "
+    },
+    {
+      "_id": "623853b21fb149d2ee7b76c7",
+      "index": 2,
+      "job": 350,
+      "picture": "https://img.freepik.com/free-photo/marketing-plan-strategy-calendar-planner-concept_53876-124779.jpg?w=1060&t=st=1681051536~exp=1681052136~hmac=98a352d4c378938e182e4ab47b7590ecc20c10fbaa11b170420db8ed0e98fa73",
+      "name": "Marketing & Sales "
+    },
+    {
+      "_id": "623853b2e91c8de578c9245e",
+      "index": 3,
+      "job": 400,
+      "picture": "https://img.freepik.com/free-photo/engineer-uniform-holding-laptop-making-thumb-up_114579-15911.jpg?w=900&t=st=1681051592~exp=1681052192~hmac=d56e48d6efeb5ba2629d2849c36c6368f29ea514af15cd7ce7c3de882738d8df",
+      "name": "Engineering Job "
+    }
+   
+  ]

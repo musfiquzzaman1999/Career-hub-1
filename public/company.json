@@ -1,0 +1,109 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "company": "UX/UI Designer",
+        "address": "Mirpur,Dhaka, Bangladesh",
+        "salary": "70K - 75K",
+        "Title": "Product Designer",       
+        "phone": "01750-00 00 00",
+        "email": " info@gmail.com",
+        "imgBanner": "https://img.freepik.com/free-psd/google-icon-isolated-3d-render-illustration_47987-9777.jpg?w=740&t=st=1681052552~exp=1681053152~hmac=3dae73b71293818a53a69452703cfe26c633e663861071799264cf8314b37925",
+        "job1": "Remote",
+        "job2": "Full-Time",
+        "JobDescription" :" Creating wireframes, prototypes, and visual designs, conducting user research, and collaborating with cross-functional teams.",
+        "JobResponsibility": " As a UX/UI Designer, you will be responsible for designing user-friendly and visually appealing interfaces for digital products. You will create wireframes, prototypes, and visual designs, conduct user research to inform design decisions, and collaborate with product managers, developers, and other stakeholders to ensure seamless user experiences.",
+        "EducationalRequirements":"Bachelor degree to complete any reputational university.",
+        "Experiences":"2-3"
+
+       
+       
+    },
+    {
+        "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+        
+        "company": "Netflix",
+        "address": "Uttara,Dhaka, Bangladesh",
+        "salary": "80K - 90K",
+        "Title": " Cybersecurity Analyst",       
+        "phone": "01750-22 11 44",
+        "email": " hlwinfo@gmail.com",
+        "imgBanner": "https://img.freepik.com/free-photo/smartphone_23-2148015028.jpg?w=740&t=st=1681158337~exp=1681158937~hmac=17a74396f5f796518fd56f0aeb7939e90c7ca5ea3385bb1a62bb0102a3faa942",
+        "job1": "Onsite",
+        "job2": "Part-Time",
+        "JobDescription" :" Monitoring and analyzing security events, managing security incidents, and implementing security controls.",
+        "JobResponsibility": " As a Cybersecurity Analyst, you will be responsible for monitoring and analyzing security events, managing security incidents, and implementing security controls to protect against cyber threats. You will work closely with IT teams, conduct security assessments, and provide recommendations to enhance the overall security posture of the organization.",
+        "EducationalRequirements":"Bachelor degree to complete any reputational university.",
+        "Experiences":"1-2"
+        
+    },
+    {
+        "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+        
+        "company": "Tagline",
+        "address": "Banani,Dhaka, Bangladesh",
+        "salary": "30K - 50K",
+        "Title": "Full Stack Developer",       
+        "phone": "01840-55 45 11",
+        "email": " sourovinfo@gmail.com",
+        "imgBanner": "https://img.freepik.com/free-vector/flat-design-car-service-logo_23-2149720696.jpg?w=740&t=st=1681158535~exp=1681159135~hmac=1ed9f27ebc6bf0020c5546e9b427e50cbc6ee491a612127b7a685d6a565ccf14",
+        "job1": "Remote",
+        "job2": "Full-Time",
+        "JobDescription" :" Developing and maintaining web applications, designing database structures, and implementing server-side and client-side technologies.",
+        "JobResponsibility": " As a Full Stack Developer, you will be responsible for developing and maintaining web applications using server-side and client-side technologies. You will design and implement database structures, develop APIs, and ensure seamless integration between front-end and back-end components to deliver robust and scalable web solutions.",
+        "EducationalRequirements":"Bachelor degree to complete any reputational university.",
+        "Experiences":"1-1.5"
+    },
+    {
+        "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+        
+        "company": "Data Logo",
+        "address": "Gulshan,Dhaka, Bangladesh",
+        "salary": "70K - 90K",
+        "Title": "Data Engineer",       
+        "phone": "01750-89 72 31",
+        "email": " shabnoorinfo@gmail.com",
+        "imgBanner": "https://img.freepik.com/free-vector/creative-data-logo-template_23-2149212795.jpg?w=740&t=st=1681159298~exp=1681159898~hmac=1d1e57cb78b1558149ecf0ade40b4991f1b4907dd6a1ba1d182ef981562f992a",
+        "job1": "Onsite",
+        "job2": "Part-Time",
+        "JobDescription" :" Designing and implementing data pipelines, optimizing data workflows, and ensuring data quality and integrity.",
+        "JobResponsibility": " As a Data Engineer, you will be responsible for designing and implementing data pipelines to extract, transform, and load data from various sources. You will optimize data workflows, ensure data quality and integrity, and collaborate with data scientists, analysts, and other stakeholders to ensure efficient and reliable data processing.",
+        "EducationalRequirements":"Bachelor degree to complete any reputational university.",
+        "Experiences":"8-10"
+    },
+    {
+        "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe921",
+        
+        "company": "System-Tecnology",
+        "address": "Kulna, Bangladesh",
+        "salary": "40K - 50K",
+        "Title": "UX Designer",       
+        "phone": "01757-44 33 12",
+        "email": " mamuninfo@gmail.com",
+        "imgBanner": "https://img.freepik.com/premium-vector/creative-letter-s-logotype-abstract-hexagon-with-pixel-technology-logo-design-creative-dynamic-round-logotype-connection-symbol-design_144543-1685.jpg?w=996",
+        "job1": "Remote",
+        "job2": "Full-Time",
+        "JobDescription" :" A UI/UX (User Interface/User Experience) designer is responsible for designing and creating engaging and effective interfaces for software and web applications. This includes designing the layout, visual design, and interactivity of the user interface.",
+        "JobResponsibility": " Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "EducationalRequirements":"Bachelor degree to complete any reputational university.",
+        "Experiences":"4-5"
+    },
+    {
+        "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe926",
+        
+        "company": "Tech-Logo",
+        "address": "Airport,Dhaka, Bangladesh",
+        "salary": "18K - 25K",
+        "Title": " Cloud Solutions Architect",       
+        "phone": "01650-67 00 91",
+        "email": " musfiquzzaman@gmail.com",
+        "imgBanner": "https://img.freepik.com/free-vector/technological-logo-design_1424-39.jpg?w=740&t=st=1681158875~exp=1681159475~hmac=2a96dc401d85d575704d1c53a726b57fb7534c53ef09f23630b0fe5737dd6b28",
+        "job1": "Onsite",
+        "job2": "Part-Time",
+        "JobDescription" :" Designing and implementing cloud-based solutions, optimizing cloud architecture, and ensuring scalability, reliability, and security.",
+        "JobResponsibility": " As a Cloud Solutions Architect, you will be responsible for designing and implementing cloud-based solutions using cloud platforms such as AWS, Azure, or Google Cloud. You will optimize cloud architecture for scalability, reliability, and security, and work closely with development teams to ensure seamless deployment and management of cloud-based applications and services.",
+        "EducationalRequirements":"Bachelor degree to complete any reputational university.",
+        "Experiences":"2-3"
+    }
+    
+     
+]
